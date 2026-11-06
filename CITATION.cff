@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "bosch-ecu-sw-number-database — DaVinci Deluxe Cloud Edition (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/ecu-identifier"
+repository-code: "https://github.com/DavinciDeluxe/bosch-ecu-sw-number-database"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
